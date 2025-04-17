@@ -1,0 +1,3 @@
+source ~/AutoRC/src/rccar/bin/activate
+cd ~/AutoRC/src
+python PiCarDriving.py
