@@ -1,0 +1,9 @@
+path: /absolute/path/to/dataset
+train: ../yolov5_data/images/train
+val: ../yolov5_data/images/val
+
+# Class names
+names:
+  0: stop_sign
+  1: turn_left
+  2: turn_right
